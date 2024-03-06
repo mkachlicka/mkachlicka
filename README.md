@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=RaK9uLgAAAAJ&hl=en)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://mkachlicka.github.io/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkachlicka&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkachlicka&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&langs_count=10&theme=tokyonight&layout=compact" alt="mk :: Top Langs" /></p>
