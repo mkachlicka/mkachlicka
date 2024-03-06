@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6345--4152-9745f5?style=flat-square.svg)](https://orcid.org/0000-0002-6345-4152)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=RaK9uLgAAAAJ&hl=en)
+[![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://remi-gau.github.io/)
+[![Personal Site](https://img.shields.io/badge/Citation_Metadata-blue?style=flat-square.svg)](https://mkachlicka.github.io/)
