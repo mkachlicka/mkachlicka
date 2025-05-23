@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+I'm Magdalena, cognitive neuroscientist based in London. I'm passionate about brains, sounds, and language, in many forms.
+
+- 🔭 I’m currently working on analysing speech using NLP techniques to assess language proficiency, identify common errors, and track learning trajectories
+- 🌱 I’m currently learning about encoding and decoding models for neuroimaging data, feature extraction techniques and cneural networks
+
+Thanks for stopping by!
 <!--
 **mkachlicka/mkachlicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
