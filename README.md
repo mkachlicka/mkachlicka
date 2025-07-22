@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Magdalena
+### Hi there 👋 
 
 I'm a cognitive neuroscientist based in London, UK. I'm passionate about brains, sounds, and language, in many forms.
 
