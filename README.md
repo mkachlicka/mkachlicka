@@ -31,6 +31,11 @@ Thanks for stopping by! 🌟
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkachlicka&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&langs_count=10&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&layout=compact&cache_seconds=1800)" alt="mk :: Top Langs" /></p>
+<!--<p><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&langs_count=10&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&layout=compact&cache_seconds=1800)" alt="mk :: Top Langs" /></p>-->
+
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkachlicka&langs_count=10&theme=tokyonight&layout=compact" />
+</p>
+
 
 <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkachlicka&langs_count=10&theme=tokyonight&layout=compact" alt="mk :: Top Langs" /></p>-->
