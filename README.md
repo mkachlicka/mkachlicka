@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a cognitive neuroscientist based in London, UK. I'm passionate about brains, sounds, and language, in many forms.
+I'm an auditory cognitive neuroscientist based in London, UK & Bern, CH. I'm passionate about brains, sounds, and language, in many forms.
 
 ### My current work...
 - 🔬 Analysing speech using NLP techniques to assess language proficiency, identify common errors, and track learning trajectories
